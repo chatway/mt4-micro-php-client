@@ -32,5 +32,6 @@
     },
     "autoload-dev": {
         "psr-4": { "Swagger\\Client\\" : "test/" }
-    }
+    },
+    "minimum-stability": "dev"
 }
